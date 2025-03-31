@@ -34,7 +34,7 @@ ng build
    ```
 2. Navigate to the project directory:
    ```bash
-   cd typing-challenge
+   cd Typing-Challenge
    ```
 3. Install dependencies:
    ```bash
