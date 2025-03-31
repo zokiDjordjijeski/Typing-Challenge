@@ -27,20 +27,6 @@ ng build
 
 
 
-## Features
-- Random Text Generation: Uses `faker.js` to generate random sentences for typing practice.
-- Real-Time Feedback: Highlights correct and incorrect characters as you type.
-- Responsive Design: Built with Bulma CSS for a clean and responsive UI.
-
-
-
-## Technologies Used
-- Angular: Frontend framework.
-- Bulma CSS: For styling.
-- faker.js: For generating random text.
-
-
-
 ## Installation
 1. Clone the repository:
    ```bash
@@ -66,6 +52,20 @@ ng build
 - The app generates a random sentence using `faker.js`.
 - As you type, it compares your input with the generated text in real-time.
 - Correct characters are highlighted in green, and incorrect characters are highlighted in red.
+
+
+
+## Features
+- Random Text Generation: Uses `faker.js` to generate random sentences for typing practice.
+- Real-Time Feedback: Highlights correct and incorrect characters as you type.
+- Responsive Design: Built with Bulma CSS for a clean and responsive UI.
+
+
+
+## Technologies Used
+- Angular: Frontend framework.
+- Bulma CSS: For styling.
+- faker.js: For generating random text.
 
 
 
