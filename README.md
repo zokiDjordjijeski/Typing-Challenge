@@ -30,7 +30,7 @@ ng build
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/typing-challenge.git
+    git clone https://github.com/your-username/typing-challenge.git
    ```
 2. Navigate to the project directory:
    ```bash
