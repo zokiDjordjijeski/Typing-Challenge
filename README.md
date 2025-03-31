@@ -1,6 +1,9 @@
-# TypingChallenge
+# Typing Challenge App
 
+A simple Angular application to test your typing speed and accuracy. Built with Angular standalone components and Bulma CSS.
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
+
+---
 
 ## Development server
 
@@ -12,19 +15,7 @@ ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
+---
 
 ## Building
 
@@ -33,27 +24,53 @@ To build the project run:
 ```bash
 ng build
 ```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+## Features
+- Random Text Generation: Uses `faker.js` to generate random sentences for typing practice.
+- Real-Time Feedback: Highlights correct and incorrect characters as you type.
+- Responsive Design: Built with Bulma CSS for a clean and responsive UI.
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## Technologies Used
+- Angular: Frontend framework.
+- Bulma CSS: For styling.
+- faker.js: For generating random text.
 
-```bash
-ng test
-```
+---
 
-## Running end-to-end tests
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/typing-challenge.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd typing-challenge
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open your browser and navigate to `http://localhost:4200`.
 
-For end-to-end (e2e) testing, run:
+---
 
-```bash
-ng e2e
-```
+## How Does It Work
+- The app generates a random sentence using `faker.js`.
+- As you type, it compares your input with the generated text in real-time.
+- Correct characters are highlighted in green, and incorrect characters are highlighted in red.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
+## Screenshot
+![Typing Challenge Screenshot](https://github.com/user-attachments/assets/32374d70-71a0-420e-a841-65f3d75fa432)
+![Successful Typing Challenge Screenshot](https://github.com/user-attachments/assets/7d48d8fd-19ac-49e8-a858-f6c7246d07cb)
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Let me know if you’d like to add or modify anything! 
