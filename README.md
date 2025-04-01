@@ -75,3 +75,5 @@ ng build
 
 
 Let me know if you’d like to add or modify anything! 
+## Test it here:
+(https://typing-challenge-wheat.vercel.app)
