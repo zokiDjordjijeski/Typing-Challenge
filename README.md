@@ -74,6 +74,6 @@ ng build
 ![Successful Typing Challenge Screenshot](https://github.com/user-attachments/assets/7d48d8fd-19ac-49e8-a858-f6c7246d07cb)
 
 
-Let me know if you’d like to add or modify anything! 
 ## Test it here:
-(https://typing-challenge-wheat.vercel.app)
+Let me know if you’d like to add or modify anything! 
+https://typing-challenge-wheat.vercel.app
